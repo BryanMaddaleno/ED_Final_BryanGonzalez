@@ -5,7 +5,7 @@
 - **Curso:** Estructuras de Datos
 - **Catedrático:** Ing. Brandon Chitay
 ## Descripción del Proyecto
-Implementación desde cero de un Árbol Binario de Búsqueda (BST) en Java.
+Implementación desde cero de un Árbol Binario de Búsqueda en Java.
 ## Video Explicativo
 [\[Enlace al video\]]()
 ## Funcionalidades
