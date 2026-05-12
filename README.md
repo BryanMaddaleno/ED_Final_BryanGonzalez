@@ -7,7 +7,7 @@
 ## Descripción del Proyecto
 Implementación desde cero de un Árbol Binario de Búsqueda en Java.
 ## Video Explicativo
-[\[Enlace al video\]]()
+[\[Enlace al video\]](https://youtu.be/JlMwfi2dRys)
 ## Funcionalidades
 - Inserción de nodos
 - Búsqueda de valores

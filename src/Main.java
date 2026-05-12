@@ -60,7 +60,7 @@ public static void main(String[] args) {
         }
 
         // Buscar un valor inexistente
-        int valorBuscar2 = 100;
+        int valorBuscar2 = 110;
 
         if (arbol.buscar(valorBuscar2)) {
             System.out.println("El valor " + valorBuscar2 + " SI existe en el arbol.");
