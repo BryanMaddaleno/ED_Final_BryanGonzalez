@@ -14,7 +14,7 @@ public static void main(String[] args) {
         System.out.println("=== INSERTANDO VALORES EN EL ARBOL ===");
 
         arbol.insertar(50);
-        arbol.insertar(30);
+        arbol.insertar(100);
         arbol.insertar(70);
         arbol.insertar(20);
         arbol.insertar(40);
@@ -54,18 +54,18 @@ public static void main(String[] args) {
         int valorBuscar1 = 40;
 
         if (arbol.buscar(valorBuscar1)) {
-            System.out.println("El valor " + valorBuscar1 + " SI existe en el árbol.");
+            System.out.println("El valor " + valorBuscar1 + " SI existe en el arbol.");
         } else {
-            System.out.println("El valor " + valorBuscar1 + " NO existe en el árbol.");
+            System.out.println("El valor " + valorBuscar1 + " NO existe en el arbol.");
         }
 
         // Buscar un valor inexistente
         int valorBuscar2 = 100;
 
         if (arbol.buscar(valorBuscar2)) {
-            System.out.println("El valor " + valorBuscar2 + " SI existe en el árbol.");
+            System.out.println("El valor " + valorBuscar2 + " SI existe en el arbol.");
         } else {
-            System.out.println("El valor " + valorBuscar2 + " NO existe en el árbol.");
+            System.out.println("El valor " + valorBuscar2 + " NO existe en el arbol.");
         }
 
         // =====================================================
